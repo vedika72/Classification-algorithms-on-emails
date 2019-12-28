@@ -1,0 +1,64 @@
+weight vector:
+0.4,-0.3,-0.7,0.9,-1.0,7.0
+parameter value:,0.18
+no. f separating features:,6
+
+no of misclassifications:,557
+old_w,[[500.98 516.48 515.54 489.06 513.62 -70.58]]
+new_w,[[500.98 516.48 515.54 489.06 513.62 -70.58]]
+iteration no,1
+
+
+no of misclassifications:,100
+old_w,[[391.54 410.64 412.04 381.06 401.84 -70.58]]
+new_w,[[391.54 410.64 412.04 381.06 401.84 -70.58]]
+iteration no,2
+
+
+no of misclassifications:,100
+old_w,[[282.1  304.8  308.54 273.06 290.06 -70.58]]
+new_w,[[282.1  304.8  308.54 273.06 290.06 -70.58]]
+iteration no,3
+
+
+no of misclassifications:,100
+old_w,[[172.66 198.96 205.04 165.06 178.28 -70.58]]
+new_w,[[172.66 198.96 205.04 165.06 178.28 -70.58]]
+iteration no,4
+
+
+no of misclassifications:,100
+old_w,[[ 63.22  93.12 101.54  57.06  66.5  -70.58]]
+new_w,[[ 63.22  93.12 101.54  57.06  66.5  -70.58]]
+iteration no,5
+
+
+no of misclassifications:,100
+old_w,[[-46.22 -12.72  -1.96 -50.94 -45.28 -70.58]]
+new_w,[[-46.22 -12.72  -1.96 -50.94 -45.28 -70.58]]
+iteration no,6
+
+
+no of misclassifications:,899
+old_w,[[933.34 974.04 967.52 911.34 923.3  -70.76]]
+new_w,[[933.34 974.04 967.52 911.34 923.3  -70.76]]
+iteration no,7
+
+
+no of misclassifications:,100
+old_w,[[823.9  868.2  864.02 803.34 811.52 -70.76]]
+new_w,[[823.9  868.2  864.02 803.34 811.52 -70.76]]
+iteration no,8
+
+
+no of misclassifications:,100
+old_w,[[714.46 762.36 760.52 695.34 699.74 -70.76]]
+new_w,[[714.46 762.36 760.52 695.34 699.74 -70.76]]
+iteration no,9
+
+
+no of misclassifications:,100
+old_w,[[605.02 656.52 657.02 587.34 587.96 -70.76]]
+new_w,[[605.02 656.52 657.02 587.34 587.96 -70.76]]
+iteration no,10
+
